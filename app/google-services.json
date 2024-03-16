@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505873606404",
+    "project_id": "bhimani-stocks",
+    "storage_bucket": "bhimani-stocks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505873606404:android:9e73ff8c5fc24dbc469251",
+        "android_client_info": {
+          "package_name": "com.papercanary.bhimanistock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwU4C2G-8XO4yvEvHax0Zaq9VYo3UisGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505873606404:android:acd5db021f9f462f469251",
+        "android_client_info": {
+          "package_name": "com.papercanary.bhimanistockadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwU4C2G-8XO4yvEvHax0Zaq9VYo3UisGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
